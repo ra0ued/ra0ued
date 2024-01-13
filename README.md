@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: ra0ued@zabtech.ru or over Telegram https://tg.me/ra0ued
+- 📫 How to reach me: ra0ued@zabtech.ru or over Telegram @ra0ued
 
 <!--
 **ra0ued/ra0ued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
